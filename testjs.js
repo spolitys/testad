@@ -1,8 +1,9 @@
 /**
-* @name Spolity
+* @name Spolitys modifier
 * @version 0.0.1
 * @description Spolitys custom client side profile changer
-* @author spolity
+* @author Spolity
+* @authorId 424759131036188672
 * @source https://raw.githubusercontent.com/shirouo/testad/main/testjs.js
 * @updateUrl https://raw.githubusercontent.com/shirouo/testad/main/testjs.js
 */
