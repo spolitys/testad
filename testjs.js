@@ -1,3 +1,13 @@
+// me
+const spol_display_name = "Spolity 🐈‍⬛";
+const spol_username = "noirleeap";
+
+// seo
+const seos_username = "seo";
+
+// my sister
+const lunas_username = "luna";
+
 //-- SPOLITY 
 
 // spol bot tag
