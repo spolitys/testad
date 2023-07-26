@@ -3,11 +3,12 @@
 * @version 0.0.1
 * @description Spolitys custom client side profile changer
 * @author spolity
+* @source https://raw.githubusercontent.com/shirouo/testad/main/testjs.js
 * @updateUrl https://raw.githubusercontent.com/shirouo/testad/main/testjs.js
 */
 
 // me
-const spol_display_name = "Spolity";
+const spol_display_name = "Spolity 🐈‍⬛";
 const spol_username = "noirleeap";
 
 // seo
