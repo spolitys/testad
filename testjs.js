@@ -7,7 +7,7 @@
 */
 
 // me
-const spol_display_name = "Spolity 🐈‍⬛";
+const spol_display_name = "Spolity";
 const spol_username = "noirleeap";
 
 // seo
