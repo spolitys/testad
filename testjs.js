@@ -3,7 +3,7 @@
 * @version 0.0.1
 * @description Spolitys custom client side profile changer
 * @author spolity
-*
+* @updateUrl https://raw.githubusercontent.com/shirouo/testad/main/testjs.js
 */
 
 // me
