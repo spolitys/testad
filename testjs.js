@@ -1,6 +1,6 @@
 // me
-const spol_display_name = "Spolity 🐈‍⬛";
-const spol_username = "noirleeap";
+const spol_display_name = "---";
+const spol_username = "---";
 
 // seo
 const seos_username = "seo";
